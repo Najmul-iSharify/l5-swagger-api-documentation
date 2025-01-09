@@ -1,7 +1,3 @@
-Certainly! Here's the revised version of the documentation, written in a more developer-friendly, natural tone:
-
----
-
 ## API Documentation for Categories Management
 
 This API allows developers to manage categories within the application. The following endpoints enable operations like creating, updating, deleting, and retrieving categories.
